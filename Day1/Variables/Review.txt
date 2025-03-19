@@ -1,10 +1,10 @@
 Variables :
  
 Review_1: 
-Score - 10
+Score - 1
  
 Review_3:
-Score - 21
+Score - 3
  
 Review_4
 Score - 1
@@ -16,4 +16,4 @@ Review_6
 Score - 0
  
 Review_9
-Score - 2
+Score - 1
